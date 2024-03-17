@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/7SwxqbM/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "The Art of Programming",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/K2JLBLK/pexels-stefan-stefancik-91227.jpg",
+        "posted_date": "2024-03-17",
+        "reading_time": 30,
+        "hashtags": ["programming", "coding", "technology"]
+      },
+      {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/7SwxqbM/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "The Power of Creativity",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/C1LmfF4/pexels-andrea-piacquadio-774909.jpg",
+        "posted_date": "2024-03-16",
+        "reading_time": 45,
+        "hashtags": ["creativity", "inspiration", "art"]
+      },
+      {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/6DZkjWS/pexels-dimitris-chatzoulis-16512862.jpg",
+        "title": "Introduction to Machine Learning",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/RjFShTX/pexels-chloe-1043471.jpg",
+        "posted_date": "2024-03-15",
+        "reading_time": 60,
+        "hashtags": ["machinelearning", "AI", "data"]
+      },
+      {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/JzL6gPB/pexels-monstera-production-6373291.jpg",
+        "title": "Healthy Eating Habits",
+        "author": "Sarah Thompson",
+        "author_img": "https://i.ibb.co/yfjSmW2/pexels-pixabay-415829.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 20,
+        "hashtags": ["health", "nutrition", "wellness"]
+      }
+      
+]
